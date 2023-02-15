@@ -1,0 +1,2 @@
+import FUNCTII
+FUNCTII.diceRoll()
